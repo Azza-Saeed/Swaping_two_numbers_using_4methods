@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693329352 source:c:\users\dell\desktop\c_projects&tasks\tasks\swap_two_numbers_with_4methods\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Swap.h"
+
+1693328371 c:\users\dell\desktop\c_projects&tasks\tasks\swap_two_numbers_with_4methods\swap.h
+
+1693329433 source:c:\users\dell\desktop\c_projects&tasks\tasks\swap_two_numbers_with_4methods\swap.c
+
